@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+<met:element form="text" read-only="false" name="Author">Swantika Gupta</met:element>
+<met:element form="date" read-only="false" name="Creation Date">28/4/2020/12:00:01 +02:00</met:element>
+<met:element form="multiline" read-only="false" name="Comments">Data Wrangling on Olympics Dataset
+
+The objective of this workflow is to explore the Olympics dataset and
+- to visualize among the summer and winter olympics, which is a better event in terms of the number of medals won.
+- to find out the top 10 performing teams at summer event and winter event.
+- to find out the top performing country iin both events in terms of gold medals won.
+- to find out the best performing country in terms of points earned and it's medal tally.
+
+
+TAGS: DataWrangling,visualize,analysis</met:element>
+</met:KNIMEMetaInfo>
